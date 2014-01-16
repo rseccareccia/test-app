@@ -1,4 +1,4 @@
-test-app
+My Test App For Sinatra Dev
 ========
 
-test app
+This app will be for some Sinatra work 
